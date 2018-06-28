@@ -1,0 +1,6 @@
+[2018-05-28 17:06:38.269103] [File: WxPlugHelper.cc, Function: InitServer, Line: 367] PushStorage_Global_Init failed!
+[2018-05-28 17:06:38.269162] [File: WxPlugHelper.cc, Function: main, Line: 481] InitServer failed!
+[2018-05-28 17:29:32.941812] [File: WxPlugHelper.cc, Function: InitServer, Line: 367] PushStorage_Global_Init failed!
+[2018-05-28 17:29:32.941898] [File: WxPlugHelper.cc, Function: main, Line: 481] InitServer failed!
+[2018-06-27 14:20:17.010930] invalid req packet QueryOpenIdInfo failed!
+[2018-06-27 14:20:17.011622] [File: WxPlugHelper.cc, Function: StartServer, Line: 493] ProcessMsg! SrcIp=127.0.0.1, Port=43185
